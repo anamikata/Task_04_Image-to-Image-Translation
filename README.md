@@ -23,5 +23,5 @@ Facades Dataset
 Successfully translated facade label maps into realistic building images.
 
 ## Author
-Anamika Arun
+Anamika T A
 AI Intern @ Prodigy InfoTech
