@@ -24,4 +24,4 @@ Successfully translated facade label maps into realistic building images.
 
 ## Author
 Anamika Arun
-Machine Learning Intern @ Prodigy InfoTech
+AI Intern @ Prodigy InfoTech
