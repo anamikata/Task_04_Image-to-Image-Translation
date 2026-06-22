@@ -98,16 +98,7 @@ PRODIGY_ML_04/
 │
 ├── Pix2Pix_Task4.ipynb
 ├── README.md
-├── requirements.txt
-├── outputs/
-│   ├── result1.png
-│   ├── result2.png
-│   └── result3.png
-│
-├── models/
-│   └── pix2pix_generator.pth
-│
-└── dataset/
+├── download.png
 ```
 
 ---
